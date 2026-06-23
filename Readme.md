@@ -31,4 +31,4 @@ Virtual DOM
 -When state changes, React creates a new Virtual DOM, compares it with the previous one (Diffing), and identifies only the changed nodes.
 -React updates only those specific nodes in the Real DOM (Reconciliation), improving rendering performance and efficiency.
 
-->in js we call function by FunctionName() in jsx you can call function by <FunctionName/>
+->in js we call function by FunctionName() in jsx you can call function by "<FunctionName/>"
